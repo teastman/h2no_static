@@ -1,1 +1,1 @@
-# h2no_static
+A stupid joke.
